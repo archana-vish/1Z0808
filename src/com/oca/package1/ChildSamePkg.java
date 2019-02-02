@@ -10,7 +10,7 @@ public class ChildSamePkg extends Parent {
 		System.out.println("Child static");
 	}
 	
-	ChildSamePkg() {
+	public ChildSamePkg() {
 		System.out.println("Child constructor");
 	}
 	

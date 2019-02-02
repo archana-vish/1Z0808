@@ -6,7 +6,7 @@ public class Parent {
 		System.out.println("Parent static");
 	}
 	
-	Parent() {
+	public Parent() {
 		System.out.println("Parent constructor");
 	}
 	
